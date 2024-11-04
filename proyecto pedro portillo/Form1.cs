@@ -109,5 +109,10 @@ namespace proyecto_pedro_portillo
         private void txtcodigo_TextChanged(object sender, EventArgs e)
         {
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
