@@ -24,7 +24,7 @@ namespace proyecto_pedro_portillo
             this.FormClosed += new FormClosedEventHandler(cerrarformulario);
 
         }
-
+        //hola cielo//
         private void cerrarformulario(object sender, EventArgs e)
         {
                 Form1 formulario = new Form1();
